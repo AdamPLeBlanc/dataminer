@@ -7,6 +7,7 @@ import struct
 '''
 possible args to pass in
 -filepath
+-type of data byte, short, int, float, double, etc
 -range of bytes to process from data
 -logic string to validate data with
 -endianess to test
